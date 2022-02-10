@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! My name is Gokul</h1>
-<h3 align="center">I'm a full-stack developer based out of India</h3>
+<h3 align="center">I'm a full-stack developer based out of Kochi, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokuliscoding&label=Profile%20views&color=0e75b6&style=flat" alt="gokuliscoding" /> </p>
 
