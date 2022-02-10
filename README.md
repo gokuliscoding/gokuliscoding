@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokuliscoding&label=Profile%20views&color=0e75b6&style=flat" alt="gokuliscoding" /> </p>
 
-- 👨‍💻 All of my projects are available at [gokul-nair.netlify.app](gokul-nair.netlify.app)
+- 👨‍💻 Here's my portfolio: [gokul-nair.netlify.app](gokul-nair.netlify.app)
 
-- 📝 I regularly write articles on [https://hashnode.com/@gokuliscoding](https://hashnode.com/@gokuliscoding)
+- 📝 Oh, and I also write: [https://hashnode.com/@gokuliscoding](https://hashnode.com/@gokuliscoding)
 
-- 📫 How to reach me **gokulnairwebdev@gmail.com**
+- 📫 You can reach me at **gokulnairwebdev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
