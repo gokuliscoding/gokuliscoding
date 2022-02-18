@@ -1,15 +1,6 @@
 <h1 align="center">Hi there! I'm Gokul</h1>
 
-<p> Excited
-about improving the way
-humans interact with web
-
-applications. An aspiring full-
-stack developer specializing in
-
-MERN stack, on the hunt for
-opportunities to challenge
-himself. </p>
+<p> Excited about improving the way humans interact with web applications. An aspiring full-stack developer specializing in MERN stack, on the hunt for opportunities to challenge himself. </p>
 
 
   
