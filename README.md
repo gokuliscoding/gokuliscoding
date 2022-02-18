@@ -1,11 +1,23 @@
 <h1 align="center">Hi there! I'm Gokul</h1>
-<h3 align="center">I'm a full-stack developer based out of Kochi,India</h3>
 
+<p> Excited
+about improving the way
+humans interact with web
+
+applications. An aspiring full-
+stack developer specializing in
+
+MERN stack, on the hunt for
+opportunities to challenge
+himself. </p>
+
+
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokuliscoding&label=Profile%20views&color=0e75b6&style=flat" alt="gokuliscoding" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gokuliscoding" alt="gokuliscoding" /></a> </p>
 
-- Here's my portfolio: [gokul-nair.netlify.app](gokul-nair.netlify.app)
+- Here's my portfolio: https://gokulnairwebdev.netlify.app/
 
 - I regularly write articles on [https://hashnode.com/@gokuliscoding](https://hashnode.com/@gokuliscoding)
 
